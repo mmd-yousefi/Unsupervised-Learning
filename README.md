@@ -1,2 +1,2 @@
 # Unsupervised-Learning
-Implementation of Some basic Unsupervised Learning algorithems.
+Implementation of some basic Unsupervised Learning algorithems.
